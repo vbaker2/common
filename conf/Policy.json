@@ -1,0 +1,244 @@
+{
+    "policy": [
+        {
+            "guid": "6eb823f8-1753-4e09-b595-7e07205dd7bd",
+            "policyDetail": {
+                "folderId": "3215178b50aabb18adb10a47c5055e30",
+                "guid": "6eb823f8-1753-4e09-b595-7e07205dd7bd",
+                "name": "common.nested1",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "3215178b50aabb18adb10a47c5055e74"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "common\/nested\/common.nested1.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "3215178b50aabb18adb10a47c5055e74"
+        },
+        {
+            "guid": "f9943e26-db0d-455a-a1d0-fca1c89d92b4",
+            "policyDetail": {
+                "folderId": "3215178b50aabb18adb10a47c5055e30",
+                "guid": "f9943e26-db0d-455a-a1d0-fca1c89d92b4",
+                "name": "common.nested2",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "3215178b50aabb18adb10a47c5055e8a"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "common\/nested\/common.nested2.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "3215178b50aabb18adb10a47c5055e8a"
+        },
+        {
+            "guid": "8e6b9942-c0fc-4efb-9f18-7841c1ce089e",
+            "policyDetail": {
+                "folderId": "3215178b50aabb18adb10a47c5055d6f",
+                "guid": "8e6b9942-c0fc-4efb-9f18-7841c1ce089e",
+                "name": "common.frag1",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "3215178b50aabb18adb10a47c5055db1"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "common\/common.frag1.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "3215178b50aabb18adb10a47c5055db1"
+        },
+        {
+            "guid": "a5fa5a38-8a9f-4b79-b43a-f41da1c61850",
+            "policyDetail": {
+                "folderId": "3215178b50aabb18adb10a47c5055d6f",
+                "guid": "a5fa5a38-8a9f-4b79-b43a-f41da1c61850",
+                "name": "common.frag2",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "3215178b50aabb18adb10a47c5055dd2"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "common\/common.frag2.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "3215178b50aabb18adb10a47c5055dd2"
+        },
+        {
+            "guid": "6d85c5e4-8e85-45c4-8dc4-8fa0955a9ba3",
+            "policyDetail": {
+                "folderId": "3215178b50aabb18adb10a47c5055d6f",
+                "guid": "6d85c5e4-8e85-45c4-8dc4-8fa0955a9ba3",
+                "name": "common.frag3",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "3215178b50aabb18adb10a47c5055e06"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "common\/common.frag3.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "3215178b50aabb18adb10a47c5055e06"
+        },
+        {
+            "guid": "cb36bcd4-23be-4399-98f3-b71a85d72ade",
+            "policyDetail": {
+                "folderId": "3215178b50aabb18adb10a47c5055d6f",
+                "guid": "cb36bcd4-23be-4399-98f3-b71a85d72ade",
+                "name": "common.frag4",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                },
+                "id": "3215178b50aabb18adb10a47c5055e1b"
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "common\/common.frag4.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "3215178b50aabb18adb10a47c5055e1b"
+        }
+    ]
+}

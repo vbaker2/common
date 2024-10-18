@@ -1,0 +1,14 @@
+{
+    "folder": [
+        {
+            "folderId": "0000000000000000ffffffffffffec76",
+            "name": "common",
+            "id": "3215178b50aabb18adb10a47c5055d6f"
+        },
+        {
+            "folderId": "3215178b50aabb18adb10a47c5055d6f",
+            "name": "nested",
+            "id": "3215178b50aabb18adb10a47c5055e30"
+        }
+    ]
+}
